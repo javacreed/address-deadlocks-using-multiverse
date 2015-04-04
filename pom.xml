@@ -69,7 +69,6 @@
 							<addJavaLicenseAfterPackage>false</addJavaLicenseAfterPackage>
 							<licenseName>apache_v2</licenseName>
 							<sortArtifactByName>true</sortArtifactByName>
-							<addSvnKeyWords>true</addSvnKeyWords>
 							<roots>
 								<root>src/main</root>
 								<root>src/test</root>
